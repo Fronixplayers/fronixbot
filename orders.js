@@ -1,31 +1,31 @@
 const Orders = [
     {
         
-        
+        productNumber: 'harsh',
         paymentStatus: 'harsh',
         status: ''
     },
     {
 
-        
+        productNumber: 'suraj',
         paymentStatus: 'suraj',
         status: ''
     },
     {
     
-        
+        productNumber: 'diljeet',
         paymentStatus: 'Diljeet singh',
         status: ''
     },
     {
         
-        
-        paymentStatus: 'rishabh',
+        productNumber: 'Suraj kashyap',
+        paymentStatus: 'Suraj kashyap',
         status: ''
     },
     {
         
-        
+        productNumber: 'Kurban',
         paymentStatus: 'kurban',
         status: ''
     },
