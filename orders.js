@@ -1,32 +1,32 @@
 const Orders = [
     {
-        productName: 'Suraj kashyap',
-        productNumber: '1400$',
-        paymentStatus: '3 star',
+        
+        productNumber: 'kurban raza',
+        paymentStatus: '300$',
         status: ''
     },
     {
-        productName: 'Rishabh Kumar',
-        productNumber: '400$',
-        paymentStatus: '0 star',
+
+        productNumber: 'rishabh kumar',
+        paymentStatus: '400$',
         status: ''
     },
     {
-        productName: 'Rishabh Kumar',
-        productNumber: '400$',
-        paymentStatus: '0 star',
+    
+        productNumber: 'suraj kashyap',
+        paymentStatus: '1200$',
         status: ''
     },
     {
-        productName: 'Rishabh Kumar',
-        productNumber: '400$',
-        paymentStatus: '0 star',
+        
+        productNumber: 'diljeet',
+        paymentStatus: '800$',
         status: ''
     },
     {
-        productName: 'Kurban Raza',
-        productNumber: '600$',
-        paymentStatus: '0 Star',
+        
+        productNumber: 'harsh',
+        paymentStatus: '900$',
         status: ''
     },
 ]
