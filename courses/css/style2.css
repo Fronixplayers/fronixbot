@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Common clasess*/
+
+#mobile-menu {
+    display: none;
+}
+
+.clear {
+    clear: both;
+}
+
+a {
+    font-family: 'Rubik';
+    font-weight: 400;
+}
+
+.active {
+    color: #f47514 !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Nunito';
+    font-weight: 800;
+}
+
+p {
+    font-family: 'Rubik';
+    font-weight: 400;
+}
+
+#arrow i {
+    position: fixed;
+    bottom: 20px;
+    right: 25px;
+    cursor: pointer;
+    background-color: #f47a14;
+    color: #fff;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 50px;
+}
+
+
+
+/*price table*/
+
+#price-table {
+    background-color: #fcfcfc;
+    padding: 100px 120px;
+    margin-top: 200px;
+}
+
+.basic-price-col {
+    float: left;
+    width: 30%;
+    background-color: #fff;
+    margin-left: 3%;
+    padding: 50px;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+
+.basic-price-info h4 {
+    color: #3b3663;
+    font-family: "Nunito";
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.price p {
+    color: #f47a14;
+    font-family: "Nunito";
+    font-weight: 600;
+    font-size: 40px;
+    margin: 20px 0px;
+}
+
+.price-list ul {
+    list-style: none;
+}
+
+.price-list ul li {
+    color: #696687;
+    font-family: "Rubik";
+    font-size: 17px;
+    font-weight: 400;
+    padding-bottom: 20px;
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
+
+.price-list ul li:hover {
+    color: #f47a14;
+}
+
+button.price-btn {
+    border: none;
+    color: #fff;
+    padding: 13px 40px;
+    border-radius: 10px;
+    background-image: linear-gradient(20deg, #ff841f 0%, #ff9721 57%) !important;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: all 0.5s ease;
+}
+
+button.price-btn:hover {
+    background-image: linear-gradient(20deg, #ff9721 0%, #ff841f 57%) !important;
+}
+
+.rec-price {
+    background-color: #3b3564;
+}
+
+.rec-price h4 {
+    color: #fff;
+}
+
+.rec-price ul li {
+    color: #fff;
+}
+
+.rec-price p {
+    color: #fff;
+}
+
+/*blog css*/
+
+.blog-col {
+    float: left;
+    width: 30%;
+    margin-left: 3%;
+    margin-top: 45px;
+    overflow: hidden;
+}
+
+
