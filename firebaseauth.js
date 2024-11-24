@@ -4,15 +4,13 @@
  import{getFirestore, setDoc, doc} from "https://www.gstatic.com/firebasejs/10.12.2/firebase-firestore.js";
  
  const firebaseConfig = {
-    apiKey: "AIzaSyC6w88P1Nrgp4djwrjJf0K2i2l6xQG8FEI",
-    authDomain: "fronix-afde1.firebaseapp.com",
-    projectId: "fronix-afde1",
-    storageBucket: "fronix-afde1.appspot.com",
-    messagingSenderId: "942976075894",
-    appId: "1:942976075894:web:dfab62b417f89cc66c3757",
-    measurementId: "G-DR773T6QF1"
+    apiKey: "AIzaSyCOhiQGx7CQeEaS1pIDYl4PMe8HbKtrHQ8",
+    authDomain: "fronixbot.firebaseapp.com",
+    projectId: "fronixbot",
+    storageBucket: "fronixbot.firebasestorage.app",
+    messagingSenderId: "764578834599",
+    appId: "1:764578834599:web:7c97a94af4b76cd4519382"
   };
-
  // Initialize Firebase
     const app = initializeApp(firebaseConfig);
     
